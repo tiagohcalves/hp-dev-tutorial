@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: hypermodern-python
+Version: 0.1.0
+Summary: The hypermodern Python project
+Home-page: https://github.com/<your-username>/hypermodern-python
+Author: Tiago Alves
+Author-email: you@example.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0
