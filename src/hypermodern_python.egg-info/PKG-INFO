@@ -6,6 +6,9 @@ Home-page: https://github.com/<your-username>/hypermodern-python
 Author: Tiago Alves
 Author-email: you@example.com
 License: UNKNOWN
-Description: UNKNOWN
+Description: # Hypermodern Python Tutorial
+        
+        https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769
+        
 Platform: UNKNOWN
 Requires-Python: >=3.7,<4.0
