@@ -2,3 +2,4 @@
 src/hypermodern_python/__pycache__/
 .coverage
 .nox/
+.mypy_cache/
