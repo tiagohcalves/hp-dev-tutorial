@@ -1,3 +1,2 @@
 [console_scripts]
 hypermodern-python = hypermodern_python.console:main
-
